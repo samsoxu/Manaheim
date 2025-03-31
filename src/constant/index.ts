@@ -1,0 +1,18 @@
+export const TechStack = [
+  'React.js',
+  '.NET 9',
+  '.NET 8',
+  '.NET Framework 4.7.2',
+  'Express.js',
+  'PostgreSQL',
+  'GSAP',
+  'Python',
+  'MySQL',
+  'TypeScript',
+  'Tailwind CSS',
+  'Bootstrap',
+  'Material UI',
+  'Git',
+  'GitHub',
+  'Notion',
+]
